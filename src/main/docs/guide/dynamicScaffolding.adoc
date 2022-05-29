@@ -37,7 +37,7 @@ class VehicleController {
 ----
 package org.grails.guides
 
-class MakeControler {
+class MakeController {
 
     static scaffold = Make
 }
